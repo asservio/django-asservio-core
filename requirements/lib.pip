@@ -1,0 +1,3 @@
+# Package dependencies
+Babel==2.5.0
+pycountry==17.5.14
